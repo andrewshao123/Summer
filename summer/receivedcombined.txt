@@ -1,0 +1,188 @@
+Rawlue (0-1023): 207.00 - Voltage: 0.67 - Dust Density: 0.01
+ (0-1023): 283.00 - Voltage: 0.91 - Dust Density: 0.06
+Raw Signal Value (0-1023): 207.00 - Voltage: 0.67 - Dust Density: 0.01
+Raw Signal Value (0-1023): 151.00 - Voltage: 0.49 - Dust Density: -0.02
+Raw Signal Value (0-1023): 259.00 - Voltage: 0.83 - Dust Density: 0.04
+Raw Signal Value (0-1023): 174.00 - Voltage: 0.56 - Dust Density: -0.00
+Raw Signal Value (0-1023): 195.00 - Voltage: 0.63 - Dust Density: 0.01
+Raw Signal Value (0-1023): 180.00 - Voltage: 0.58 - Dust Density: -0.00
+Raw Signal Value (0-1023): 304.00 - Voltage: 0.98 - Dust Density: 0.07
+Raw Signal Value (0-1023): 179.00 - Voltage: 0.58 - Dust Density: -0.00
+Raw Signal Value (0-1023): 202.00 - Voltage: 0.65 - Dust Density: 0.01
+Raw Signal Value (0-1023): 263.00 - Voltage: 0.85 - Dust Density: 0.04
+Raw Signal Value (0-1023): 208.00 - Voltage: 0.67 - Dust Density: 0.01
+Raw Signal Value (0-1023): 211.00 - Voltage: 0.68 - Dust Density: 0.02
+Raw Signal Value (0-1023): 218.00 - Voltage: 0.70 - Dust Density: 0.02
+Raw Signal Value (0-1023): 154.00 - Voltage: 0.50 - Dust Density: -0.02
+Raw Signal Value (0-1023): 157.00 - Voltage: 0.51 - Dust Density: -0.01
+Raw Signal Value (0-1023): 187.00 - Voltage: 0.60 - Dust Density: 0.00
+Raw Signal Value (0-1023): 304.00 - Voltage: 0.98 - Dust Density: 0.07
+Raw Signal Value (0-1023): 185.00 - Voltage: 0.60 - Dust Density: 0.00
+concentration = 0.62 pcs/0.01cf
+
+
+Raw Signal Value (0-1023): 191.00 - Voltage: 0.62 - Dust Density: 0.00
+Raw Signal Value (0-1023): 270.00 - Voltage: 0.87 - Dust Density: 0.05
+Raw Signal Value (0-1023): 153.00 - Voltage: 0.49 - Dust Density: -0.02
+Raw Signal Value (0-1023): 274.00 - Voltage: 0.88 - Dust Density: 0.05
+Raw Signal Value (0-1023): 190.00 - Voltage: 0.61 - Dust Density: 0.00
+Raw Signal Value (0-1023): 253.00 - Voltage: 0.82 - Dust Density: 0.04
+Raw Signal Value (0-1023): 251.00 - Voltage: 0.81 - Dust Density: 0.04
+Raw Signal Value (0-1023): 172.00 - Voltage: 0.55 - Dust Density: -0.01
+Raw Signal Value (0-1023): 230.00 - Voltage: 0.74 - Dust Density: 0.03
+Raw Signal Value (0-1023): 200.00 - Voltage: 0.64 - Dust Density: 0.01
+Raw Signal Value (0-1023): 209.00 - Voltage: 0.67 - Dust Density: 0.01
+Raw Signal Value (0-1023): 216.00 - Voltage: 0.70 - Dust Density: 0.02
+Raw Signal Value (0-1023): 161.00 - Voltage: 0.52 - Dust Density: -0.01
+Raw Signal Value (0-1023): 232.00 - Voltage: 0.75 - Dust Density: 0.03
+Raw Signal Value (0-1023): 206.00 - Voltage: 0.66 - Dust Density: 0.01
+Raw Signal Value (0-1023): 181.00 - Voltage: 0.58 - Dust Density: -0.00
+Raw Signal Value (0-1023): 260.00 - Voltage: 0.84 - Dust Density: 0.04
+concentration = 0.62 pcs/0.01cf
+
+
+Raw Signal Value (0-1023): 210.00 - Voltage: 0.68 - Dust Density: 0.02
+Raw Signal Value (0-1023): 188.00 - Voltage: 0.61 - Dust Density: 0.00
+Raw Signal Value (0-1023): 315.00 - Voltage: 1.02 - Dust Density: 0.07
+Raw Signal Value (0-1023): 247.00 - Voltage: 0.80 - Dust Density: 0.04
+Raw Signal Value (0-1023): 152.00 - Voltage: 0.49 - Dust Density: -0.02
+Raw Signal Value (0-1023): 208.00 - Voltage: 0.67 - Dust Density: 0.01
+Raw Signal Value (0-1023): 280.00 - Voltage: 0.90 - Dust Density: 0.05
+Raw Signal Value (0-1023): 269.00 - Voltage: 0.87 - Dust Density: 0.05
+Raw Signal Value (0-1023): 180.00 - Voltage: 0.58 - Dust Density: -0.00
+Raw Signal Value (0-1023): 208.00 - Voltage: 0.67 - Dust Density: 0.01
+Raw Signal Value (0-1023): 168.00 - Voltage: 0.54 - Dust Density: -0.01
+Raw Signal Value (0-1023): 252.00 - Voltage: 0.81 - Dust Density: 0.04
+Raw Signal Value (0-1023): 242.00 - Voltage: 0.78 - Dust Density: 0.03
+Raw Signal Value (0-1023): 186.00 - Voltage: 0.60 - Dust Density: 0.00
+Raw Signal Value (0-1023): 285.00 - Voltage: 0.92 - Dust Density: 0.06
+Raw Signal Value (0-1023): 264.00 - Voltage: 0.85 - Dust Density: 0.04
+Raw Signal Value (0-1023): 263.00 - Voltage: 0.85 - Dust Density: 0.04
+concentration = 0.62 pcs/0.01cf
+
+
+Raw Signal Value (0-1023): 202.00 - Voltage: 0.65 - Dust Density: 0.01
+Raw Signal Value (0-1023): 274.00 - Voltage: 0.88 - Dust Density: 0.05
+Raw Signal Value (0-1023): 168.00 - Voltage: 0.54 - Dust Density: -0.01
+Raw Signal Value (0-1023): 182.00 - Voltage: 0.59 - Dust Density: -0.00
+Raw Signal Value (0-1023): 266.00 - Voltage: 0.86 - Dust Density: 0.05
+Raw Signal Value (0-1023): 160.00 - Voltage: 0.52 - Dust Density: -0.01
+Raw Signal Value (0-1023): 166.00 - Voltage: 0.53 - Dust Density: -0.01
+Raw Signal Value (0-1023): 231.00 - Voltage: 0.74 - Dust Density: 0.03
+Raw Signal Value (0-1023): 223.00 - Voltage: 0.72 - Dust Density: 0.02
+Raw Signal Value (0-1023): 207.00 - Voltage: 0.67 - Dust Density: 0.01
+Raw Signal Value (0-1023): 244.00 - Voltage: 0.79 - Dust Density: 0.03
+Raw Signal Value (0-1023): 198.00 - Voltage: 0.64 - Dust Density: 0.01
+Raw Signal Value (0-1023): 239.00 - Voltage: 0.77 - Dust Density: 0.03
+Raw Signal Value (0-1023): 198.00 - Voltage: 0.64 - Dust Density: 0.01
+Raw Signal Value (0-1023): 184.00 - Voltage: 0.59 - Dust Density: 0.00
+Raw Signal Value (0-1023): 199.00 - Voltage: 0.64 - Dust Density: 0.01
+Raw Signal Value (0-1023): 203.00 - Voltage: 0.65 - Dust Density: 0.01
+concentration = 0.62 pcs/0.01cf
+
+
+Raw Signal Value (0-1023): 177.00 - Voltage: 0.57 - Dust Density: -0.00
+Raw Signal Value (0-1023): 184.00 - Voltage: 0.59 - Dust Density: 0.00
+Raw Signal Value (0-1023): 262.00 - Voltage: 0.84 - Dust Density: 0.04
+Raw Signal Value (0-1023): 291.00 - Voltage: 0.94 - Dust Density: 0.06
+Raw Signal Value (0-1023): 272.00 - Voltage: 0.88 - Dust Density: 0.05
+Raw Signal Value (0-1023): 166.00 - Voltage: 0.53 - Dust Density: -0.01
+Raw Signal Value (0-1023): 242.00 - Voltage: 0.78 - Dust Density: 0.03
+Raw Signal Value (0-1023): 145.00 - Voltage: 0.47 - Dust Density: -0.02
+Raw Signal Value (0-1023): 187.00 - Voltage: 0.60 - Dust Density: 0.00
+Raw Signal Value (0-1023): 194.00 - Voltage: 0.63 - Dust Density: 0.01
+Raw Signal Value (0-1023): 234.00 - Voltage: 0.75 - Dust Density: 0.03
+Raw Signal Value (0-1023): 244.00 - Voltage: 0.79 - Dust Density: 0.03
+Raw Signal Value (0-1023): 192.00 - Voltage: 0.62 - Dust Density: 0.01
+Raw Signal Value (0-1023): 236.00 - Voltage: 0.76 - Dust Density: 0.03
+Raw Signal Value (0-1023): 291.00 - Voltage: 0.94 - Dust Density: 0.06
+Raw Signal Value (0-1023): 208.00 - Voltage: 0.67 - Dust Density: 0.01
+Raw Signal Value (0-1023): 181.00 - Voltage: 0.58 - Dust Density: -0.00
+concentration = 0.62 pcs/0.01cf
+
+
+Raw Signal Value (0-1023): 251.00 - Voltage: 0.81 - Dust Density: 0.04
+Raw Signal Value (0-1023): 188.00 - Voltage: 0.61 - Dust Density: 0.00
+Raw Signal Value (0-1023): 238.00 - Voltage: 0.77 - Dust Density: 0.03
+Raw Signal Value (0-1023): 192.00 - Voltage: 0.62 - Dust Density: 0.01
+Raw Signal Value (0-1023): 198.00 - Voltage: 0.64 - Dust Density: 0.01
+Raw Signal Value (0-1023): 265.00 - Voltage: 0.85 - Dust Density: 0.05
+Raw Signal Value (0-1023): 221.00 - Voltage: 0.71 - Dust Density: 0.02
+Raw Signal Value (0-1023): 150.00 - Voltage: 0.48 - Dust Density: -0.02
+Raw Signal Value (0-1023): 200.00 - Voltage: 0.64 - Dust Density: 0.01
+Raw Signal Value (0-1023): 193.00 - Voltage: 0.62 - Dust Density: 0.01
+Raw Signal Value (0-1023): 198.00 - Voltage: 0.64 - Dust Density: 0.01
+Raw Signal Value (0-1023): 201.00 - Voltage: 0.65 - Dust Density: 0.01
+Raw Signal Value (0-1023): 285.00 - Voltage: 0.92 - Dust Density: 0.06
+Raw Signal Value (0-1023): 236.00 - Voltage: 0.76 - Dust Density: 0.03
+Raw Signal Value (0-1023): 282.00 - Voltage: 0.91 - Dust Density: 0.05
+Raw Signal Value (0-1023): 176.00 - Voltage: 0.57 - Dust Density: -0.00
+Raw Signal Value (0-1023): 314.00 - Voltage: 1.01 - Dust Density: 0.07
+concentration = 885.90 pcs/0.01cf
+
+
+Raw Signal Value (0-1023): 242.00 - Voltage: 0.78 - Dust Density: 0.03
+Raw Signal Value (0-1023): 218.00 - Voltage: 0.70 - Dust Density: 0.02
+Raw Signal Value (0-1023): 187.00 - Voltage: 0.60 - Dust Density: 0.00
+Raw Signal Value (0-1023): 219.00 - Voltage: 0.71 - Dust Density: 0.02
+Raw Signal Value (0-1023): 195.00 - Voltage: 0.63 - Dust Density: 0.01
+Raw Signal Value (0-1023): 171.00 - Voltage: 0.55 - Dust Density: -0.01
+Raw Signal Value (0-1023): 323.00 - Voltage: 1.04 - Dust Density: 0.08
+Raw Signal Value (0-1023): 288.00 - Voltage: 0.93 - Dust Density: 0.06
+Raw Signal Value (0-1023): 161.00 - Voltage: 0.52 - Dust Density: -0.01
+Raw Signal Value (0-1023): 295.00 - Voltage: 0.95 - Dust Density: 0.06
+Raw Signal Value (0-1023): 228.00 - Voltage: 0.73 - Dust Density: 0.02
+Raw Signal Value (0-1023): 257.00 - Voltage: 0.83 - Dust Density: 0.04
+Raw Signal Value (0-1023): 240.00 - Voltage: 0.77 - Dust Density: 0.03
+Raw Signal Value (0-1023): 233.00 - Voltage: 0.75 - Dust Density: 0.03
+Raw Signal Value (0-1023): 197.00 - Voltage: 0.63 - Dust Density: 0.01
+Raw Signal Value (0-1023): 271.00 - Voltage: 0.87 - Dust Density: 0.05
+Raw Signal Value (0-1023): 243.00 - Voltage: 0.78 - Dust Density: 0.03
+Raw Signal Value (0-1023): 224.00 - Voltage: 0.72 - Dust Density: 0.02
+concentration = 324.33 pcs/0.01cf
+
+
+Raw Signal Value (0-1023): 175.00 - Voltage: 0.56 - Dust Density: -0.00
+Raw Signal Value (0-1023): 207.00 - Voltage: 0.67 - Dust Density: 0.01
+Raw Signal Value (0-1023): 258.00 - Voltage: 0.83 - Dust Density: 0.04
+Raw Signal Value (0-1023): 207.00 - Voltage: 0.67 - Dust Density: 0.01
+Raw Signal Value (0-1023): 183.00 - Voltage: 0.59 - Dust Density: 0.00
+Raw Signal Value (0-1023): 187.00 - Voltage: 0.60 - Dust Density: 0.00
+Raw Signal Value (0-1023): 269.00 - Voltage: 0.87 - Dust Density: 0.05
+Raw Signal Value (0-1023): 154.00 - Voltage: 0.50 - Dust Density: -0.02
+Raw Signal Value (0-1023): 219.00 - Voltage: 0.71 - Dust Density: 0.02
+Raw Signal Value (0-1023): 261.00 - Voltage: 0.84 - Dust Density: 0.04
+Raw Signal Value (0-1023): 236.00 - Voltage: 0.76 - Dust Density: 0.03
+Raw Signal Value (0-1023): 190.00 - Voltage: 0.61 - Dust Density: 0.00
+Raw Signal Value (0-1023): 281.00 - Voltage: 0.91 - Dust Density: 0.05
+Raw Signal Value (0-1023): 168.00 - Voltage: 0.54 - Dust Density: -0.01
+Raw Signal Value (0-1023): 187.00 - Voltage: 0.60 - Dust Density: 0.00
+Raw Signal Value (0-1023): 226.00 - Voltage: 0.73 - Dust Density: 0.02
+Raw Signal Value (0-1023): 241.00 - Voltage: 0.78 - Dust Density: 0.03
+concentration = 0.62 pcs/0.01cf
+
+
+Raw Signal Value (0-1023): 167.00 - Voltage: 0.54 - Dust Density: -0.01
+Raw Signal Value (0-1023): 313.00 - Voltage: 1.01 - Dust Density: 0.07
+Raw Signal Value (0-1023): 203.00 - Voltage: 0.65 - Dust Density: 0.01
+Raw Signal Value (0-1023): 188.00 - Voltage: 0.61 - Dust Density: 0.00
+Raw Signal Value (0-1023): 443.00 - Voltage: 1.43 - Dust Density: 0.14
+Raw Signal Value (0-1023): 222.00 - Voltage: 0.72 - Dust Density: 0.02
+Raw Signal Value (0-1023): 263.00 - Voltage: 0.85 - Dust Density: 0.04
+Raw Signal Value (0-1023): 218.00 - Voltage: 0.70 - Dust Density: 0.02
+Raw Signal Value (0-1023): 146.00 - Voltage: 0.47 - Dust Density: -0.02
+Raw Signal Value (0-1023): 155.00 - Voltage: 0.50 - Dust Density: -0.02
+Raw Signal Value (0-1023): 216.00 - Voltage: 0.70 - Dust Density: 0.02
+Raw Signal Value (0-1023): 237.00 - Voltage: 0.76 - Dust Density: 0.03
+Raw Signal Value (0-1023): 142.00 - Voltage: 0.46 - Dust Density: -0.02
+Raw Signal Value (0-1023): 249.00 - Voltage: 0.80 - Dust Density: 0.04
+Raw Signal Value (0-1023): 313.00 - Voltage: 1.01 - Dust Density: 0.07
+Raw Signal Value (0-1023): 178.00 - Voltage: 0.57 - Dust Density: -0.00
+Raw Signal Value (0-1023): 236.00 - Voltage: 0.76 - Dust Density: 0.03
+concentration = 0.62 pcs/0.01cf
+
+
+Raw Signal Value (0-1023): 196.00 - Voltage: 0.63 - Dust Density: 0.01
+Raw Signal Value (0-1023): 199.00 - Voltage: 0.64 - Dust Density: 0.01
+Raw Signal Value (0-1023): 185.00 - Voltage: 0.60 - Dust Density: 0.00
+Raw Signal Value (0-1023): 288.00 - Voltage: 0.93 - Dust Density: 0.06
